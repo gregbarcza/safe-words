@@ -1,0 +1,23 @@
+{
+  "name": "safe-words",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "unicodeWords.js"
+  ],
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/barczaG/safe-words"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "mocha": "^7.1.1"
+  }
+}
